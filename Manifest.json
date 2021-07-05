@@ -1,0 +1,12 @@
+{
+"manifest_version": 2,
+"name": “INIT2022",
+"description": "INIT2022",
+"version": "1.0",
+"browser_action": {
+"default_icon": "icon.png",
+"default_popup": “window.html"
+},
+"permissions": [
+]
+}
